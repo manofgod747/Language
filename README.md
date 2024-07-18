@@ -10,7 +10,6 @@ Symbols are patterns of experience
 
 The significance of a symbol is subjective
 
-
 This language has letters, words and sentences
 
 Letters signify sounds
@@ -19,5 +18,8 @@ Words are a combinations of letters
 
 Words signify symbols
 
+Sentences signify a state of facts
 
-TBC...
+* Negation is denial
+* Opinion is projection
+* Advice is ignorance
