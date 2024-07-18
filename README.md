@@ -8,9 +8,9 @@ A sign points to a symbol
 
 Symbols are patterns of experience
 
-The significance of a symbol is subjective
+The significance symbols is subjective
 
-This language has letters, words and sentences
+This language has letters, words, and sentences
 
 Letters signify sounds
 
