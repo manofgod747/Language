@@ -8,7 +8,7 @@ A sign points to a symbol
 
 Symbols are patterns of experience
 
-The significance of symbols is subjective
+The meaning of symbols is subjective
 
 This language has letters, words, and sentences
 
@@ -20,6 +20,7 @@ Words signify symbols
 
 Sentences signify a state of facts
 
-* Negation is denial
-* Opinion is projection
-* Advice is ignorance
+This is generally the case in human language
+* Negation is denial (I'm not afraid)
+* Opinion is projection (You are dumb)
+* Advice is ignorance (You should eat healthy)
